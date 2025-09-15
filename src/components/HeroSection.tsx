@@ -76,16 +76,16 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onSearch, searchQuery 
           {/* Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-md mx-auto mt-12 pt-8 border-t border-border/40">
             <div className="text-center">
-              <div className="text-2xl sm:text-3xl font-bold neon-text">1000+</div>
+              <div className="text-2xl sm:text-3xl font-bold neon-text">30+</div>
               <div className="text-sm text-muted-foreground">Free Games</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl sm:text-3xl font-bold neon-text">10M+</div>
-              <div className="text-sm text-muted-foreground">Players</div>
+              <div className="text-2xl sm:text-3xl font-bold neon-text">8</div>
+              <div className="text-sm text-muted-foreground">Categories</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl sm:text-3xl font-bold neon-text">50+</div>
-              <div className="text-sm text-muted-foreground">Categories</div>
+              <div className="text-2xl sm:text-3xl font-bold neon-text">5M+</div>
+              <div className="text-sm text-muted-foreground">Total Plays</div>
             </div>
           </div>
         </div>
